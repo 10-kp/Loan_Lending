@@ -8,7 +8,7 @@
 [![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/)
 
-Welcome to the Loan Status Prediction app using Streamlit! This application leverages deep learning to predict the loan status of applicants, categorizing them as either "Fully Paid" or "Charged Off."
+This application leverages deep learning to predict the loan status of applicants, categorizing them as either "Fully Paid" or "Charged Off."
 
 Fully Paid: The applicant has successfully repaid the loan amount, along with the interest, within the stipulated time frame.
 Charged Off: The applicant has failed to make timely installment payments for an extended period, resulting in loan default.
